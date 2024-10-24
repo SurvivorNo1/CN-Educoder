@@ -1,0 +1,3 @@
+DNS服务器运行的端口和响应报文中Answer RRs的值:(53)(1)
+DNS查询报文的QName和QType字段的值:(www.qq.com)(A)
+响应报文中Answers中第一个条目data的值:(192.168.1.1)

@@ -48,7 +48,7 @@
   - 特别的，动态路由 RIP 与 OSPF 配置实验，需要操作两次：
     ```bash
     git clone https://github.com/SurvivorNo1/CN-Educoder.git
-    mkdir -p /data/workspace/myshixun/third
+    mkdir -p /tmp/third
     cp CN-Educoder/third1-3/* /tmp/third/
     ```
     点击3次测评，完成前3关，然后执行

@@ -1,2 +1,2 @@
-双方的AS Number:(100)(200)
-双方的BGP Identifier:(1.1.1.1)(2.2.2.2)
+双方的AS Number:(200)(100)
+双方的BGP Identifier:(2.2.2.2)(1.1.1.1)

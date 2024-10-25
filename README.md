@@ -2,7 +2,6 @@
 
 高级算机网络 Educoder 课堂实验 TDUN
 
-对于大量重复的体力工作，做一次就行了，不如直接git clone
 ## 目录格式解释
 
 **实验名** - repo 中答案所在文件夹，注意有的实验对应多个文件夹。
@@ -30,21 +29,27 @@
 ## 使用说明
 
 ### 代码类和网络协议分析实验
-
-对于代码类和网络协议分析实验，只需将代码或要求填写的文件内容手动复制到目标位置即可。
+对于网络协议分析实验，把要求的文件拷贝到要求的目录下，然后不断点击测评，下一关即可完成实验
+```bash
+git clone https://github.com/SurvivorNo1/CN-Educoder.git
+cp CN-Educoder/myshixun/* /home/headless/Desktop/workspace/myshixun/
+```
+对于代码类，只需将代码手动复制到目标位置即可。
 
 ### 配置实验
 
 实验环境可以访问互联网，只需按照以下步骤操作：
   - 对于一般实验：
 
-    例如，GNS3 组建小型局域网实验测试目录在/data/workspace/myshixun/first下，则创建目录，然后把对应的文件全部拷贝到该目录下
+    例如，GNS3 组建小型局域网实验测试目录在/data/workspace/myshixun/first下（每个实验不一样），则创建目录，然后把对应的文件全部拷贝到该目录下
     ```bash
     git clone https://github.com/SurvivorNo1/CN-Educoder.git
     mkdir -p /data/workspace/myshixun/first
     cp CN-Educoder/first/* /data/workspace/myshixun/first/
     ```
-    点击测评，下一关即可完成实验
+    点击测评，下一关即可完成实验.
+    
+    对于其他实验，例如**DHCP 服务器配置**只需要替换命令中的`/data/workspace/myshixun/first`为`/tmp/fifth` 即可
   - 特别的，动态路由 RIP 与 OSPF 配置实验，需要操作两次：
     ```bash
     git clone https://github.com/SurvivorNo1/CN-Educoder.git

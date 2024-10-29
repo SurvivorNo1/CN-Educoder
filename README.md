@@ -25,7 +25,7 @@ cp CN-Educoder/first/* /data/workspace/myshixun/first/
 
 - 具体的图文演示步骤，**DHCP 服务器配置**为例
 
-  - 1![image-20241029144007935](./assets/assets/image-20241029144007935.png)
+  - 1![image-20241029144007935](./assets/image-20241029144007935.png)
   - 2![image-20241029144035213](./assets/image-20241029144035213.png)
   - 3![image-20241029145509641](./assets/image-20241029145509641.png)
   - 4![image-20241029145435727](./assets/image-20241029145435727.png)

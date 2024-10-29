@@ -4,33 +4,31 @@
 
 ## 如何使用
 
-实验环境可以访问互联网，只需按照以下步骤操作：
+- 实验环境可以访问互联网，只需按照以下步骤操作：
 
-- 对于一般实验：
-
-  - 对于网络协议分析实验，把要求的文件拷贝到要求的目录下，然后不断点击测评，下一关即可完成实验
+  对于网络协议分析实验，把要求的文件拷贝到要求的目录下，然后不断点击测评，下一关即可完成实验。
 
   例如，GNS3 组建小型局域网实验测试目录在/data/workspace/myshixun/first下（每个实验不一样），则创建目录，然后把对应的文件全部拷贝到该目录下.
 
   把下面的代码粘贴到环境的命令行中即可，粘贴方式如图。
 
-  ```bash
-  git clone https://github.com/SurvivorNo1/CN-Educoder.git
-  mkdir -p /data/workspace/myshixun/first
-  cp CN-Educoder/first/* /data/workspace/myshixun/first/
-  ```
+```shell
+git clone https://github.com/SurvivorNo1/CN-Educoder.git
+mkdir -p /data/workspace/myshixun/first
+cp CN-Educoder/first/* /data/workspace/myshixun/first/
+```
 
-  不断点击测评，下一关即可完成实验.
+​	不断点击测评，下一关即可完成实验.
 
-  - 对于其他实验，例如**DHCP 服务器配置**只需要替换命令中的`/data/workspace/myshixun/first`为`/tmp/fifth` ，不断点击测评，下一关即可完成实验.
+​	对于其他实验，例如**DHCP 服务器配置**只需要替换命令中的`/data/workspace/myshixun/first`为`/tmp/fifth` , `CN-Educoder/first`为`CN-Educoder/fifth` ，不断点击测评，下一关即可完成实验.
 
-- 图文演示步骤，**DHCP 服务器配置**为例
+- 具体的图文演示步骤，**DHCP 服务器配置**为例
 
-  - 1![image-20241029144007935](E:\Master\计算机网络\Coder\CN-Educoder\assets\image-20241029144007935.png)
-  - 2![image-20241029144035213](E:\Master\计算机网络\Coder\CN-Educoder\assets\image-20241029144035213.png)
-  - 3![image-20241029145509641](E:\Master\计算机网络\Coder\CN-Educoder\assets\image-20241029145509641.png)
-  - 4![image-20241029145435727](E:\Master\计算机网络\Coder\CN-Educoder\assets\image-20241029145435727.png)
-  - 5![image-20241029145553529](E:\Master\计算机网络\Coder\CN-Educoder\assets\image-20241029145553529.png)
+  - 1![image-20241029144007935](.\assets\image-20241029144007935.png)
+  - 2![image-20241029144035213](.\assets\image-20241029144035213.png)
+  - 3![image-20241029145509641](.\assets\image-20241029145509641.png)
+  - 4![image-20241029145435727](.\assets\image-20241029145435727.png)
+  - 5![image-20241029145553529](.\assets\image-20241029145553529.png)
 
   
 
@@ -46,8 +44,6 @@
   git clone https://github.com/SurvivorNo1/CN-Educoder.git
   cp CN-Educoder/myshixun/* /home/headless/Desktop/workspace/myshixun/
   ```
-
-点击测评，下一关即可完成实验.
 
 - **GNS3 组建小型局域网** - first
 
@@ -105,11 +101,6 @@
 - **UDP Ping 程序实现** - UDP Ping 程序实现
 
 - **基于 socket 的网络编程** - 基于 socket 的网络编程
-
-  
-
-
-
 
 
 ---

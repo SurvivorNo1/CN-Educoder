@@ -1,0 +1,7 @@
+DHCP消息是通过UDP还是TCP发送的：UDP
+DHCP发现，DHCP提供，DHCP请求以及DHCP ACK的Transaction-ID值各是多少？
+DHCP发现：0x3e5e0ce3
+DHCP提供：0x3e5e0ce3
+DHCP请求：0x3e5e0ce3
+DHCP ACK：0x3e5e0ce3
+主机的链路层的地址：00:08:74:4f:36:23

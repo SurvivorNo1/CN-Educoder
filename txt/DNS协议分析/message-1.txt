@@ -1,0 +1,4 @@
+查询域名www.educoder.net的DNS服务器IP：192.168.0.10
+域名www.educoder.net的IP：218.28.198.181
+查询域名www.educoder.net的名字服务结果中origin值：dns3.hichina.com
+172.21.0.10对应的域名：kube-dns.kube-system.svc.cluster.local

@@ -1,0 +1,4 @@
+消息出现在NAT_ISP_side跟踪文件的时间是：
+承载此 HTTP GET 消息的 IP 数据报的源IP和端口是：
+承载此 HTTP GET 消息的 IP 数据报的目的IP和端口是：
+对比两个跟踪文件，HTTP GET 消息中的任何字段是否更改：

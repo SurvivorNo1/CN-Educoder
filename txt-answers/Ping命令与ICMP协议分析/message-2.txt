@@ -1,0 +1,5 @@
+ICMP类型：8
+代码：0
+校验和(Checksum)：2个字节
+序列号(Sequence)：2个字节
+标识符(Identifier)：2个字节

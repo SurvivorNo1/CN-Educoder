@@ -1,0 +1,7 @@
+查询报文的目标IP地址：114.114.114.114
+上述地址是否为默认DNS服务器地址：否
+查询报文的Name依次为：baidu.com.default.svc.cluster.local;baidu.com.svc.cluster.local;baidu.com.cluster.local;baidu.com
+前几个响应报文的Type：SOA
+前几个响应报文的Name：Root
+最后一个响应报文的Type：A
+最后一个响应报文的address分别为：39.156.69.79;220.181.38.148

@@ -1,0 +1,4 @@
+DNS查询消息的目标IP地址：172.21.0.10
+查询请求报文的Type值：NS
+域名baidu.com的权威DNS服务器：ns.dns.cluster.local
+响应权威DNS服务器报文的Type值：SOA

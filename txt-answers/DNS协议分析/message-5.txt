@@ -1,0 +1,4 @@
+查询报文中Query部分的Type值：PTR
+查询报文中Query部分的name值：39.156.69.79.in-addr.arpa
+应答报文中Answers部分的Type值：PTR
+应答报文中Answers部分的Domain Name值：79-69-156-39.dynamic.dsl.as9105.com

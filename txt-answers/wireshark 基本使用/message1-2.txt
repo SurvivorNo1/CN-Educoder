@@ -1,0 +1,7 @@
+Frame Length：399
+Type：IPv4(0x0800)
+Total Length：385
+Destination Port：80
+Request URI：/success.txt
+Request Method对应的ASCII码：GET
+Request Method对应的16进制码：47 45 54

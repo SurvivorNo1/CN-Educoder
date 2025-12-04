@@ -1,0 +1,4 @@
+对浏览器的初始HTTP GET消息，服务器响应状态描述：Authorization Required
+服务器响应中，WWW-Authenticate字段的值：Basic realm="eth-students only"
+第二次发送GET请求中，认证方式：Basic
+对第二次GET请求服务器响应状态描述：OK

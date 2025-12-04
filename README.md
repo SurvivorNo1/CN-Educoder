@@ -14,7 +14,7 @@
   把下面的代码粘贴到环境的命令行中即可，粘贴方式如图。
 
 ```shell
-git clone https://github.com/SurvivorNo1/CN-Educoder.git
+git clone https://github.com/CGH0S7/CN-Educoder.git
 mkdir -p /data/workspace/myshixun/first
 cp CN-Educoder/first/* /data/workspace/myshixun/first/
 ```
@@ -42,14 +42,14 @@ cp CN-Educoder/first/* /data/workspace/myshixun/first/
 - **网络协议分析** - myshixun
 
   ```shell
-  git clone https://github.com/SurvivorNo1/CN-Educoder.git
+  git clone https://github.com/CGH0S7/CN-Educoder.git
   cp CN-Educoder/myshixun/* /home/headless/Desktop/workspace/myshixun/
   ```
 
 - **GNS3 组建小型局域网** - first
 
   ```shell
-  git clone https://github.com/SurvivorNo1/CN-Educoder.git
+  git clone https://github.com/CGH0S7/CN-Educoder.git
   mkdir -p /data/workspace/myshixun/first
   cp CN-Educoder/first/* /data/workspace/myshixun/first/
   ```
@@ -57,7 +57,7 @@ cp CN-Educoder/first/* /data/workspace/myshixun/first/
 - **静态路由配置** - second
 
   ```	
-  git clone https://github.com/SurvivorNo1/CN-Educoder.git
+  git clone https://github.com/CGH0S7/CN-Educoder.git
   cp -r CN-Educoder/second /data/workspace/myshixun/
   ```
 
@@ -70,7 +70,7 @@ cp CN-Educoder/first/* /data/workspace/myshixun/first/
   - **动态路由 RIP 与 OSPF 配置 4 关** - third4
   - 特别的，动态路由 RIP 与 OSPF 配置实验，需要操作两次：
     ```bash
-    git clone https://github.com/SurvivorNo1/CN-Educoder.git
+    git clone https://github.com/CGH0S7/CN-Educoder.git
     mkdir -p /tmp/third
     cp CN-Educoder/third1-3/* /tmp/third/
     ```
@@ -82,7 +82,7 @@ cp CN-Educoder/first/* /data/workspace/myshixun/first/
 - **VLAN 间单臂路由配置** - fourth
 
   ```shell
-  git clone https://github.com/SurvivorNo1/CN-Educoder.git
+  git clone https://github.com/CGH0S7/CN-Educoder.git
   mkdir -p /tmp/fourth
   cp CN-Educoder/fourth/* /tmp/fourth
   ```
@@ -90,7 +90,7 @@ cp CN-Educoder/first/* /data/workspace/myshixun/first/
 - **DHCP 服务器配置** - fifth
 
   ```
-  git clone https://github.com/SurvivorNo1/CN-Educoder.git
+  git clone https://github.com/CGH0S7/CN-Educoder.git
   mkdir -p /tmp/fifth
   cp CN-Educoder/fifth/* /tmp/fifth
   ```
@@ -98,7 +98,7 @@ cp CN-Educoder/first/* /data/workspace/myshixun/first/
 - **静态 NAT 配置**
 
   ```
-  git clone https://github.com/SurvivorNo1/CN-Educoder.git
+  git clone https://github.com/CGH0S7/CN-Educoder.git
   mkdir -p /tmp/fifth
   cp CN-Educoder/fifth/* /tmp/fifth
   ```
@@ -116,8 +116,5 @@ cp CN-Educoder/first/* /data/workspace/myshixun/first/
 ### 文本检测类实验
 
 这类实验测试方式是检查txt文本，所有文本答案位置均位于txt-answers下。
-
-
-![Star History Chart](https://api.star-history.com/svg?repos=SurvivorNo1/CN-Educoder&type=Date)
 
 ---

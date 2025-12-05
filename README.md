@@ -61,9 +61,6 @@ cp CN-Educoder/first/* /data/workspace/myshixun/first/
   cp -r CN-Educoder/second /data/workspace/myshixun/
   ```
 
-- **静态路由配置** - second
-  ```
-
 - **动态路由 RIP 与 OSPF 配置**
   
   - **动态路由 RIP 与 OSPF 配置 1-3 关** - third1-3

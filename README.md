@@ -58,8 +58,7 @@ cp CN-Educoder/first/* /data/workspace/myshixun/first/
 
   ```	
   git clone https://github.com/SurvivorNo1/CN-Educoder.git
-  mkdir -p /tmp/second
-  cp CN-Educoder/second/* /tmp/second
+  cp -r CN-Educoder/second /data/workspace/myshixun/
   ```
 
 - **动态路由 RIP 与 OSPF 配置**
@@ -93,6 +92,14 @@ cp CN-Educoder/first/* /data/workspace/myshixun/first/
   cp CN-Educoder/fifth/* /tmp/fifth
   ```
 
+- **静态 NAT 配置**
+
+  ```
+  git clone https://github.com/SurvivorNo1/CN-Educoder.git
+  mkdir -p /tmp/fifth
+  cp CN-Educoder/fifth/* /tmp/fifth
+  ```
+
 ### 代码类实验
 
 对于代码类，只需将代码手动复制到目标位置即可。
@@ -103,6 +110,9 @@ cp CN-Educoder/first/* /data/workspace/myshixun/first/
 
 - **基于 socket 的网络编程** - 基于 socket 的网络编程
 
-![Star History Chart](https://api.star-history.com/svg?repos=SurvivorNo1/CN-Educoder&type=Date)
+### 文本检测类实验
 
+这类实验测试方式是检查txt文本，所有文本答案位置均位于txt-answers下。
+
+![Star History Chart](https://api.star-history.com/svg?repos=SurvivorNo1/CN-Educoder&type=Date)
 ---
